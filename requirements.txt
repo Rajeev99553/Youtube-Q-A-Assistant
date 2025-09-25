@@ -1,0 +1,47 @@
+#Langchain core
+langchain
+langchain-core
+
+#OpenAI Integration
+langchain-OpenAI
+OpenAI
+
+#Anthropic Integration
+langchain-Anthropic
+
+#Google Gemini (Palm) Integration
+langchain-google-genai
+google-generativeai
+
+#Huggingface Integration
+langchain-huggingface
+transformers
+huggingface-hub
+langchain_huggingface
+langchain_community
+
+
+#Environment variable management
+python-dotenv
+
+#Machine learning utilities
+numpy
+scikit-learn
+streamlit
+
+
+#rag
+youtube-transcript-api 
+faiss-cpu
+tiktoken
+sentence-transformers
+
+
+langchain 
+langchain-huggingface 
+langchain-core 
+langchain-community 
+sentence-transformers 
+faiss-cpu 
+python-docx 
+reportlab
